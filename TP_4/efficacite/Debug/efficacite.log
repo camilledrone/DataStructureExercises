@@ -1,6 +1,0 @@
-﻿  efficacite.cpp
-C:\Users\camil\OneDrive\Documents\UQAC\Structure_donnees\travail4\travail_4\efficacite\efficacite.cpp(19,19): warning C4244: 'argument' : conversion de 'time_t' en 'unsigned int', perte possible de données
-C:\Users\camil\OneDrive\Documents\UQAC\Structure_donnees\travail4\travail_4\efficacite\efficacite.cpp(51,19): warning C4244: 'argument' : conversion de 'time_t' en 'unsigned int', perte possible de données
-C:\Users\camil\OneDrive\Documents\UQAC\Structure_donnees\travail4\travail_4\efficacite\efficacite.cpp(86,19): warning C4244: 'argument' : conversion de 'time_t' en 'unsigned int', perte possible de données
-C:\Users\camil\OneDrive\Documents\UQAC\Structure_donnees\travail4\travail_4\efficacite\efficacite.cpp(100,33): warning C4018: '>' : incompatibilité signed/unsigned
-  efficacite.vcxproj -> C:\Users\camil\OneDrive\Documents\UQAC\Structure_donnees\travail4\travail_4\Debug\efficacite.exe
