@@ -1,0 +1,12 @@
+﻿  tri.cpp
+C:\Users\camil\source\repos\td7\tri\tri\tri.cpp(37,6): warning C4101: 'valeurs_20' : variable locale non référencée
+C:\Users\camil\source\repos\td7\tri\tri\tri.cpp(49,6): warning C4101: 'valeurs_50' : variable locale non référencée
+C:\Users\camil\source\repos\td7\tri\tri\tri.cpp(41,6): warning C4101: 'valeurs_25' : variable locale non référencée
+C:\Users\camil\source\repos\td7\tri\tri\tri.cpp(33,6): warning C4101: 'valeurs_15' : variable locale non référencée
+C:\Users\camil\source\repos\td7\tri\tri\tri.cpp(29,6): warning C4101: 'valeurs_10' : variable locale non référencée
+C:\Users\camil\source\repos\td7\tri\tri\tri.cpp(53,6): warning C4101: 'valeurs_100' : variable locale non référencée
+C:\Users\camil\source\repos\td7\tri\tri\tri.cpp(45,6): warning C4101: 'valeurs_30' : variable locale non référencée
+C:\Users\camil\source\repos\td7\tri\tri\tri.cpp(25,6): warning C4101: 'valeurs_5' : variable locale non référencée
+C:\Users\camil\source\repos\td7\tri\tri\tri.cpp(91,12): warning C4244: 'argument' : conversion de 'time_t' en 'unsigned int', perte possible de données
+C:\Users\camil\source\repos\td7\tri\tri\tri.cpp(199,9): warning C4244: 'return' : conversion de 'float' en 'int', perte possible de données
+  tri.vcxproj -> C:\Users\camil\source\repos\td7\tri\Debug\tri.exe
