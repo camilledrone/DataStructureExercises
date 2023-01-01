@@ -26,3 +26,15 @@ sorting algorithms
 
 ## TP8 
 Binary Search Tree
+
+## TP9
+AVL Tree - self-balancing binary search tree 
+
+## TP10 
+Graph - Adjacency List and Adjacency Matrix representation
+
+## TP11  
+Dijkstra algorithm
+
+## TP12 
+Hashtable
